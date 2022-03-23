@@ -65,6 +65,6 @@ This section contains helpful links to other content. It isn’t required, so co
 
 This section contains questions for you to check your understanding of this lesson. If you’re having trouble answering the questions below on your own, review the material above to find the answer.
 
-- [What is an HTML tag?](https://husnimubarok.github.io/js/html/#elements-and-Tags)
+- [What is an HTML tag?](https://husnimubarok.github.io/js/html/#elements-and-tags)
 
-- [What are the three parts of an HTML element?](https://husnimubarok.github.io/js/html/#elements-and-Tags)
+- [What are the three parts of an HTML element?](https://husnimubarok.github.io/js/html/#elements-and-tags)
