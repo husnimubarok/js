@@ -2,7 +2,7 @@
 
 ## Element dan Tag
 
-- Peendahuluan
+- Pendahuluan
 - Outcome pembelajaran
 - Tugas
 - Resource tambahan
