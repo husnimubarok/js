@@ -23,7 +23,7 @@ By the end of this lesson, you should be able to:
 - Explain what HTML Tags are
 - Explain what HTML elements are
 
-### [Elements and Tags](#elements-and-tags)
+### Elements and Tags {#elements-and-tags}
 
 ---
 
@@ -67,4 +67,4 @@ This section contains questions for you to check your understanding of this less
 
 - [What is an HTML tag?](https://husnimubarok.github.io/js/html/#elements-and-tags)
 
-- [What are the three parts of an HTML element?](https://husnimubarok.github.io/js/html/#element-diagram)
+- [What are the three parts of an HTML element?](./img/element-diagram.png)
