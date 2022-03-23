@@ -23,7 +23,7 @@ Selesai sesi ini, kamu diharapkan mengerti:
 - Menjelaskan apa saja Tag HTML
 - Menjelaskan apa saja Element HTML
 
-### [Element dan Tag](#elements-and-tags)
+### Element dan Tag {#elements-and-tags}
 
 ---
 
@@ -65,6 +65,6 @@ Bagian ini berisi tautan bermanfaat ke konten lain sebagai tambhanan.
 
 Bagian ini berisi pertanyaan untuk memeriksa pemahaman kamu tentang pelajaran ini. Jika kamu kesulitan menjawab pertanyaan di bawah, tinjau materi di atas untuk menemukan jawabannya.
 
-- [Apa itu tag HTML?](https://husnimubarok.github.io/js/html/#elements-and-tags)
+- [Apa itu tag HTML?](#elements-and-tags)
 
 - [Apa saja tiga bagian dari elemen HTML?](./img/element-diagram.png)
